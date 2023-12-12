@@ -41,17 +41,10 @@ SQL’s versatility allows for a wealth of applications, especially in website b
 - **Modifying Table Data**
 SQL can update or alter specific data within a table, or apply widespread changes to the table’s entire dataset.
 
-- **Creating Tables:**
-  
- It enables the creation of new tables to store fresh data, contributing to the system’s analytical and data management capabilities.
-- **Data Retrieval**
-  
-Also known as Data Query Language (DQL), SQL’s “SELECT” command is pivotal for data scientists retrieving and analyzing data.
-- **Structural Modifications**
-  
-SQL can restructure a database or its tables to accommodate new, restructured, or updated data.
+- **Creating Tables:**  It enables the creation of new tables to store fresh data, contributing to the system’s analytical and data management capabilities.
+- **Data Retrieval** Also known as Data Query Language (DQL), SQL’s “SELECT” command is pivotal for data scientists retrieving and analyzing data.
+- **Structural Modifications**SQL can restructure a database or its tables to accommodate new, restructured, or updated data.
 and more...
-
 ## Example of SQL in Action:
 Let’s say you run a bookstore, and you want to find all science fiction books that have been sold. An SQL query for this task might look like this:
 ```sql
