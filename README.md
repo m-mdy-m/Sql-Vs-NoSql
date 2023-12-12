@@ -57,7 +57,9 @@ Let’s say you run a bookstore, and you want to find all science fiction books 
 ```sql
 SELECT title, author FROM books WHERE genre = 'Science Fiction' AND status = 'Sold';
 ```
+
 This command requests a list of all titles and authors of books categorized under ‘Science Fiction’ that have been sold, akin to asking a librarian for a checkout list.
+
 ---
 
 # And Now, `NoSQL`?
