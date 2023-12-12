@@ -16,7 +16,7 @@ Databases operate as the unseen yet crucial facilitators for businesses, helping
   
 - **Manage health information:** Healthcare institutions rely on databases to ensure physicians are aware of their patients’ medical histories, serving as an extensive medical journal.
   
-- **Secure our digital memories:::** Our personal databases safeguard our photos and videos, providing a platform to share those moments with friends and family.
+- **Secure our digital memories:** Our personal databases safeguard our photos and videos, providing a platform to share those moments with friends and family.
 
 ---
 # Types of `databases:`
